@@ -1,6 +1,5 @@
-CANVA 
-     
-**CANVA**
+
+     **CANVA**
 Canva is a popular, user-friendly online graphic design platform launched in 2013 that enables users to create social media graphics, presentations, videos, documents, and other visual content. It is designed for non-designers and professionals alike, offering a drag-and-drop interface, thousands of templates, and AI-powered tools.
 
 
